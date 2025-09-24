@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_CC_ZVU_VALIDATION_STEP</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Constants from ZVU_VALIDATION_STEP domain</DESCRIPT>
+    <STATE>1</STATE>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>GC_IN</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Validation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GC_POST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Postvalidation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>GC_PRE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Prevalidation</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
